@@ -1,4 +1,4 @@
-# sentiment-analysis-restaurant-review
+# Sentiment-Analysis-Restaurant-Review
 
 This project aims to explore two main approaches of sentiment analysis using lexicon-based approach vs machine learning approach as tools for opinion mining. It is conducted in Python using sklearn and gensim as the main libraries for sentiment analysis.
 
